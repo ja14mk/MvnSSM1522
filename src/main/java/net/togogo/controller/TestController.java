@@ -2,7 +2,6 @@ package net.togogo.controller;
 
 import net.togogo.bean.User;
 import net.togogo.service.UserService;
-import net.togogo.utis.Md5;
 import net.togogo.utis.newMD5;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

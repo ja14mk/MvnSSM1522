@@ -1,6 +1,5 @@
 package net.togogo;
 
-import net.togogo.utis.Md5;
 import net.togogo.utis.newMD5;
 import org.junit.Test;
 
